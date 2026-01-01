@@ -579,7 +579,7 @@ public float val;
 
 #### Button
 
-![Button](https://github.com/codewriter-packages/Shady-Inspector/assets/26966368/76f4a3a4-4bf9-4f58-8615-17adb986ab81)
+<img width="606" height="112" alt="Screenshot 2026-01-01 at 15 49 40" src="https://github.com/user-attachments/assets/fd0ceb89-4617-4a20-a65a-76e354999220" />
 
 ```csharp
 [Button("Click me!")]
