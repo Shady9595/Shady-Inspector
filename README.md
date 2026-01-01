@@ -35,7 +35,7 @@ You can suggest new features in the [Discussions](https://github.com/codewriter-
 ## Samples
 
 ShadyInspector has built-in samples at `Tools/Shady Inspector/Samples` menu.
-![Samples](https://user-images.githubusercontent.com/26966368/177045336-a3fcf438-3e70-45d0-b753-299e577b2010.png)
+<img width="1047" height="493" alt="Screenshot 2026-01-01 at 15 36 39" src="https://github.com/user-attachments/assets/81650d1d-2892-4ab3-88bd-ff6fddf36cae" />
 
 ## Attributes
 
