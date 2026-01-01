@@ -1,8 +1,7 @@
 # Shady Inspector
 
 _Advanced inspector attributes for Unity_
-
-![Shady-Inspector-Demo](https://user-images.githubusercontent.com/26966368/187032895-8c41295b-dd82-40ad-80c3-1efaad202732.png)
+<img width="1536" height="1024" alt="530566287-802fe8e8-dd94-4302-b90f-996b9cdc8677" src="https://github.com/user-attachments/assets/421658ca-d9ed-4493-bffd-6b42d1a3d309" />
 
 - [How to Install](#How-to-Install)
 - [Roadmap](#Roadmap-)
