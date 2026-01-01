@@ -1,0 +1,9 @@
+{
+  "name": "com.shady.shadyinspector",
+  "displayName": "Shady Inspector",
+  "description": "Advanced inspector attributes for Unity",
+  "version": "1.0.0",
+  "unity": "6000.3.2f1",
+  "author": "Shady (https://github.com/Shady9595/Shady-Inspector)",
+  "homepage": "https://github.com/Shady9595/Shady-Inspector#readme"
+}
