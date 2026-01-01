@@ -21,7 +21,8 @@ _Advanced inspector attributes for Unity_
 ## How to Install
 
 Library distributed as git package ([How to install package from git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html))
-<br>Git URL: `https://github.com/Shady9595/Shady-Inspector.git`
+<br>Git URL: `https://github.com/Shady9595/Shady-Inspector.git`<br/>
+<br>Git URL: `https://github.com/codewriter-packages/Tri-Inspector.git`
 
 <!-- ## Roadmap ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/Shady-Inspector?style=social)
 Each star ★ on the project page brings new features closer. 
